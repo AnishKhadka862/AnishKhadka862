@@ -14,7 +14,7 @@ I'm Anish Khadka, a rising senior at San Francisco State University. I specializ
 ### 🔭 I’m working on
 
 - Enhancing my skills in web development and cloud computing.
-- Completing my Bachelor of Science in Computer Science at San Francisco State University with projects focusing on banking systems, recipe posting websites, and human-computer interaction.
+- Completing my Bachelor of Science in Computer Science at San Francisco State University.
 
 ### 🌱 I’m learning
 
