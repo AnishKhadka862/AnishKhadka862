@@ -1,16 +1,36 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**AnishKhadka862/AnishKhadka862** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Anish Khadka, a budding software engineer from San Lorenzo, CA. I specialize in C++, Python, JavaScript, and I'm passionate about software engineering, web development, cloud computing, and data science.
 
-Here are some ideas to get you started:
+**I love working with**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🔭 I’m working on
+
+- Enhancing my skills in web development and cloud computing.
+- Completing my Bachelor of Science in Computer Science at San Francisco State University with projects focusing on banking systems, recipe posting websites, and human-computer interaction.
+
+### 🌱 I’m learning
+
+- Advanced techniques in Data Science and Machine Learning.
+- Exploring more about Cloud Computing services and how to effectively implement them in projects.
+
+### 🤔 I’m looking for help with
+
+- Deepening my understanding of cloud architecture and best practices in deploying scalable applications.
+- Networking with professionals who are involved in Software Engineering and related fields.
+
+### 📫 How to reach me
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-khadka-55025b11b/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aneeshkhadka862@gmail.com)
+
+### ⚡ Fun fact
+
+I love playing soccer in rain.
