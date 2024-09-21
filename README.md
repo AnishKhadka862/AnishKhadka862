@@ -14,7 +14,7 @@ I'm Anish Khadka, a Computer Science graduate from San Francisco State Universit
 ### 🔭 I’m working on
 
 - Enhancing my skills in web development and cloud computing.
-- Completing my Bachelor of Science in Computer Science at San Francisco State University.
+- Excelling my probelm solving with advanced Data Structures and Algorithms problem in Lettcode.
 
 ### 🌱 I’m learning
 
