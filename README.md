@@ -29,7 +29,7 @@ I'm Anish Khadka, a Computer Science graduate from San Francisco State Universit
 ### 📫 How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-khadka-55025b11b/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aneeshkhadka862@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anishkhadka0001@gmail.com)
 
 ### ⚡ Fun fact
 
