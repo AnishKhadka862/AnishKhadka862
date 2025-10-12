@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-I'm Anish Khadka, a Computer Science graduate from San Francisco State University. I specialize in C++, Python, JavaScript, and I'm passionate about software engineering, web development, cloud computing, and data science.
+I'm Anish Khadka, a Computer Science graduate from San Francisco State University currently pursuing Master's
+in San Francisco Bay University.  I'm passionate about software engineering, web development, cloud computing.
 
 **I love working with**
 
